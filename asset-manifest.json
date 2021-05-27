@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https//AmnaRiaz.github.io/notesapp/static/css/main.80c003f7.chunk.css",
+    "main.js": "/https//AmnaRiaz.github.io/notesapp/static/js/main.2e7c3d68.chunk.js",
+    "main.js.map": "/https//AmnaRiaz.github.io/notesapp/static/js/main.2e7c3d68.chunk.js.map",
+    "runtime-main.js": "/https//AmnaRiaz.github.io/notesapp/static/js/runtime-main.5a655a9c.js",
+    "runtime-main.js.map": "/https//AmnaRiaz.github.io/notesapp/static/js/runtime-main.5a655a9c.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/https//AmnaRiaz.github.io/notesapp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.49315a46.chunk.js": "/https//AmnaRiaz.github.io/notesapp/static/js/2.49315a46.chunk.js",
+    "static/js/2.49315a46.chunk.js.map": "/https//AmnaRiaz.github.io/notesapp/static/js/2.49315a46.chunk.js.map",
+    "index.html": "/https//AmnaRiaz.github.io/notesapp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/https//AmnaRiaz.github.io/notesapp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.80c003f7.chunk.css.map": "/https//AmnaRiaz.github.io/notesapp/static/css/main.80c003f7.chunk.css.map",
+    "static/js/2.49315a46.chunk.js.LICENSE.txt": "/https//AmnaRiaz.github.io/notesapp/static/js/2.49315a46.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/https//AmnaRiaz.github.io/notesapp/static/media/bg.87f04def.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a655a9c.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.49315a46.chunk.js",
+    "static/css/main.80c003f7.chunk.css",
+    "static/js/main.2e7c3d68.chunk.js"
+  ]
+}
